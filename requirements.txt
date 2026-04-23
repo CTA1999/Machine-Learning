@@ -11,4 +11,4 @@ openai==1.30.1
 faiss-cpu>=1.12.0
 python-dotenv
 pypdf==4.2.0
-tiktoken==0.7.0
+tiktoken
