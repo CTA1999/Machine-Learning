@@ -54,7 +54,7 @@ qa_chain = RetrievalQA.from_chain_type(
    chain_type_kwargs={"prompt": prompt_template} # We use default behavior here
 )
 
-question = st.text_input(f"Ask a question about your documents:")
+question = st.text_input(f"Ask a question about your what is in the Car Owner's Manual:")
 
 if question:
     with st.spinner("Searching documents..."):
