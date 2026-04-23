@@ -3,8 +3,8 @@ streamlit==1.33.0
 langchain==0.2.1
 langchain-community==0.2.1
 langchain-openai==0.1.7
-langchain-text-splitters>=0.20
-langchain-classic
+langchain-text-splitters==0.2.0
+
 
 openai==1.30.1
 
