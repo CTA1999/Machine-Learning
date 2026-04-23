@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 st.set_page_config(page_title="PDF Q&A Bot", page_icon="📄")
-st.title("Student Advisor")
+st.title("Car Owner's Manual")
 
 @st.cache_resource
 def load_vectorstore():
